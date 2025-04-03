@@ -1,0 +1,3 @@
+This is a common code, already present.
+
+Common necessary code. Used by both stories.
