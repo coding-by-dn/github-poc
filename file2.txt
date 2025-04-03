@@ -1,1 +1,3 @@
 Generic code (modified by individual stories)
+
+Modified from f6-story-2.
